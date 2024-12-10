@@ -1,0 +1,9 @@
+{
+  "name": "vue-learn-test",
+  "version": "1.0.0",
+  "description": "In-depth study of vue3 source code",
+  "private": true,
+  "scripts": {
+
+  }
+}
