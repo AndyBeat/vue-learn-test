@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "In-depth study of vue3 source code",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndyBeat/vue-learn-test.git"
+  },
   "scripts": {
 
   }
